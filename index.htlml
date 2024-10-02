@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Formularz Wprowadzania Danych</title>
 </head>
-<title>Formularz Wprowadzania Danych</title>
+<h1>Formularz</h1>
 <body style="background-color: lightgray;">
     <form action="https://valeriitp.github.io/wsiprojecty/" method="get">
         <label for="name">Imię i nazwisko</label>
